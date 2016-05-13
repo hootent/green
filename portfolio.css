@@ -1,0 +1,114 @@
+    body {
+      padding-top: 50px;
+      background: #1B5589;
+    }
+    
+    P {
+      font-size: 20px;
+    }
+    
+    h3 {
+      font-size: 26px;
+    }
+    
+    .cnt {
+      text-align: center;
+    }
+    
+    .about {
+      padding-top: 30px;
+      color: #ecf0f1;
+      background: #1B5589;
+    }
+    
+    #projects {
+      padding-top: 40px;
+      padding-bottom: 50px;
+      color: #ecf0f1;
+      background: #1B5589;
+    }
+    
+    #contact {
+      color: #ecf0f1;
+      background: #343436;
+      padding-bottom: 20px;
+    }
+    
+    #myfoot {
+      color: #a20a2b;
+      background: #1a1c1d;
+      padding: 10px;
+    }
+    
+    .avatar {
+      height: 220px;
+      margin-top: 55px;
+      margin-bottom: 35px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .thumb {
+      height: 190px;
+      width: 260px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 30px;
+    }
+    
+    .social-icons {
+      padding: 10px;
+    }
+    
+    .skills-icons {
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-bottom: 50px;
+    }
+    
+    .navbar-default {
+      background-color: #A20A2B;
+      border-color: #1d1f20;
+    }
+    
+    .navbar-default .navbar-brand {
+      color: #ecf0f1;
+    }
+    
+    .navbar-default .navbar-brand:hover,
+    .navbar-default .navbar-brand:focus {
+      color: #1d1f20;
+    }
+    
+    .navbar-default .navbar-text {
+      color: #1d1f20;
+    }
+    
+    .navbar-default .navbar-nav > li > a {
+      color: #ecf0f1;
+    }
+    
+    .navbar-default .navbar-nav > li > a:hover,
+    .navbar-default .navbar-nav > li > a:focus {
+      color: #1d1f20;
+    }
+    
+    .navbar-default .navbar-toggle {
+      border-color: #756f78;
+    }
+    
+    .navbar-default .navbar-toggle:hover,
+    .navbar-default .navbar-toggle:focus {
+      background-color: #1d1f20;
+    }
+    
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: #ecf0f1;
+    }
+    
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+      border-color: #ecf0f1;
+    }
